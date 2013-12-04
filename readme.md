@@ -26,8 +26,7 @@ Libraries and tools we will explore:
 | [PBox2D][lib2]    | Thin wrapper around JBox2D by Daniel Shiffman              |
 | [BoxWrap2D][lib3] | Processing library by th JBox2D team                       |
 | [Igeo][lib4]      | Computational Design library by Satoru Sugihara            |
-| [Igeo-Demo][lib5] | Simple fix to run Igeo-Sketches in kiosk-mode              |
-| [BitWalk][lib6]   | Library for working with Turtles and random-walks          |       
+| [Igeo-Demo][lib5] | Simple fix to run Igeo-Sketches in kiosk-mode              |      
 
 
 ## Concepts
