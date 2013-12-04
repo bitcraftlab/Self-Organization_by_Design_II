@@ -2,7 +2,7 @@
 Self-Organization by Design II
 ==============================
 
-This is the Repo of **Self-Organisation by Design (SOBD) [^1] – Part II** [^2]  
+This is the Repo of [Self-Organisation by Design (SOBD)][1] – [Part II][2]  
 It contains Processing sketches and exercises for the workshop at Bauhaus-Uni Weimar.
 
 ## Topics
@@ -40,8 +40,8 @@ Libraries and tools we will explore:
 - Folding in 1D, 2D and 3D
 
 
-[^1]: [Self-Organization by Design](http://bitcraftlab.com/teaching/selforganisation/)
-[^2]: [SOBD – Part II at Bauhaus-Uni Weimar](http://www.uni-weimar.de/medien/wiki/GMU:Self-Organization_by_Design/Part2)
+[1]: http://bitcraftlab.com/teaching/selforganisation/
+[2]: http://www.uni-weimar.de/medien/wiki/GMU:Self-Organization_by_Design/Part2
 
 [lib1]: http://toxiclibs.org/
 [lib2]: https://github.com/shiffman/PBox2D
