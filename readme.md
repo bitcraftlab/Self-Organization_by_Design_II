@@ -14,7 +14,7 @@ It contains Processing sketches and exercises for the workshop at Bauhaus-Uni We
 
 ## Special Feature
 
-Feat. the [BitWalk Library](5__bitwalk_library)
+Feat. the [CanvasCam Library](5__canvascam_library). 
 
 ## Libraries
 
@@ -28,7 +28,6 @@ Libraries and tools we will explore:
 | [Igeo][lib4]      | Computational Design library by Satoru Sugihara            |
 | [Igeo-Demo][lib5] | Simple fix to run Igeo-Sketches in kiosk-mode              |      
 | [canvascam][lib6] | 2D camera for the canvas                                   | 
-
 
 ## Concepts
 
