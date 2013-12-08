@@ -30,6 +30,12 @@ Chemical Geometry
 - How can you encode the structure in attraction-repulsion rules?
 - Create your own 2D chemistry
 
+###### Image-Based Chemistry
+
+- Create a self-organizing system that reacts to input from the webcam using the video_loops library.
+- What happens if you point your video camera at your screen?
+- Couple two simulations using two laptops with webcams!
+
 ###### Aggregation
 
 Create your own variant of Diffusion Limited Aggregation.  
@@ -40,6 +46,8 @@ Create your own variant of Diffusion Limited Aggregation.
 - Change the number of contacts a particle needs before it freezes
 - Change the number of times a frozen cell needs to be contacted before a particle can attach to it
 - Create a multi-color DLA, with color-dependent rules for aggregation 
+- Create an image-based DLA where the freezing propability depends on how the underlying image and the color of the floating particle match up.
+
 
 
 
